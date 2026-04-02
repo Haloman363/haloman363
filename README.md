@@ -24,7 +24,7 @@ Hobbyist dev tinkering with hardware, automation, and whatever sounds fun.
 
 ## GitHub Stats
 
-![Haloman363's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haloman363&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Haloman363&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
